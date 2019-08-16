@@ -1,16 +1,16 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-primary">
   <div class="container">
-    <a class="navbar-brand" href="#">Stockpile App</a>
+    <a class="navbar-brand" [routerLink]="['/home']">Stockpile App</a>
 
     <ul *ngIf="loggedIn()" class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Stockpile</a>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/stockpile']"  >Stockpile</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Brands</a>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/brands']"  >Brands</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Platforms</a>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/platforms']" >Platforms</a>
       </li>
      
     </ul>
