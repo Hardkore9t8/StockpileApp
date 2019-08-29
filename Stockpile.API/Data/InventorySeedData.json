@@ -1,0 +1,102 @@
+[
+    {
+      "ItemName": "Bag",
+      "ItemDescription": "Sunt Lorem magna laborum ea sint est Lorem in id.",
+      "ItemBrand": "Nike",
+      "ItemSize": "XLarge",
+      "ItemQty": 5,
+      "ItemColor": "black",
+      "ItemPlatform": "Mecari",
+      "DateCreated": "2019-05-11",
+      "DateUpdated": "2019-05-11",
+      "isNew": false,
+      "ItemPhoto": [
+        {
+          "url": "https://picsum.photos/id/27 /200/300",
+          "DateAdded": "2019-05-01",
+          "isMain": true,
+          "Description": "Reprehenderit sunt laborum consequat nulla sint reprehenderit ullamco enim et consectetur commodo Lorem eu commodo."
+        }
+      ]
+    },
+    {
+      "ItemName": "Bag",
+      "ItemDescription": "Consequat do deserunt occaecat velit officia veniam sunt ad enim reprehenderit veniam qui proident.",
+      "ItemBrand": "Adidas",
+      "ItemSize": "XSmall",
+      "ItemQty": 8,
+      "ItemColor": "white",
+      "ItemPlatform": "Poshmark",
+      "DateCreated": "2019-07-24",
+      "DateUpdated": "2019-07-24",
+      "isNew": true,
+      "ItemPhoto": [
+        {
+          "url": "https://picsum.photos/id/95 /200/300",
+          "DateAdded": "2019-01-12",
+          "isMain": true,
+          "Description": "Laborum aute nostrud quis fugiat."
+        }
+      ]
+    },
+    {
+      "ItemName": "Bag",
+      "ItemDescription": "Ullamco nostrud sint aute magna enim dolore ex.",
+      "ItemBrand": "New Balance",
+      "ItemSize": "Small",
+      "ItemQty": 9,
+      "ItemColor": "black",
+      "ItemPlatform": "Amazon",
+      "DateCreated": "2019-03-07",
+      "DateUpdated": "2019-03-07",
+      "isNew": false,
+      "ItemPhoto": [
+        {
+          "url": "https://picsum.photos/id/5 /200/300",
+          "DateAdded": "2019-02-17",
+          "isMain": true,
+          "Description": "Excepteur nulla culpa ullamco ex occaecat nostrud aliquip Lorem."
+        }
+      ]
+    },
+    {
+      "ItemName": "Pant",
+      "ItemDescription": "Velit laborum aliqua consectetur ex minim excepteur.",
+      "ItemBrand": "Adidas",
+      "ItemSize": "Large",
+      "ItemQty": 8,
+      "ItemColor": "yellow",
+      "ItemPlatform": "Poshmark",
+      "DateCreated": "2019-06-21",
+      "DateUpdated": "2019-06-21",
+      "isNew": true,
+      "ItemPhoto": [
+        {
+          "url": "https://picsum.photos/id/14 /200/300",
+          "DateAdded": "2019-03-11",
+          "isMain": true,
+          "Description": "Eiusmod voluptate qui sunt proident est ad nisi mollit consectetur id mollit consectetur esse consequat."
+        }
+      ]
+    },
+    {
+      "ItemName": "Shirt",
+      "ItemDescription": "Adipisicing voluptate incididunt pariatur veniam minim incididunt do elit.",
+      "ItemBrand": "Under Armour",
+      "ItemSize": "Small",
+      "ItemQty": 5,
+      "ItemColor": "black",
+      "ItemPlatform": "Mecari",
+      "DateCreated": "2019-01-14",
+      "DateUpdated": "2019-01-14",
+      "isNew": true,
+      "ItemPhoto": [
+        {
+          "url": "https://picsum.photos/id/53 /200/300",
+          "DateAdded": "2019-04-02",
+          "isMain": true,
+          "Description": "Elit sit reprehenderit magna elit culpa adipisicing duis eiusmod id tempor laboris esse."
+        }
+      ]
+    }
+  ]
